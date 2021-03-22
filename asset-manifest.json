@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Stock-Market-App/static/css/main.645f95a9.chunk.css",
+    "main.js": "/Stock-Market-App/static/js/main.c9a52b58.chunk.js",
+    "main.js.map": "/Stock-Market-App/static/js/main.c9a52b58.chunk.js.map",
+    "runtime-main.js": "/Stock-Market-App/static/js/runtime-main.4db54122.js",
+    "runtime-main.js.map": "/Stock-Market-App/static/js/runtime-main.4db54122.js.map",
+    "static/js/2.78733cc7.chunk.js": "/Stock-Market-App/static/js/2.78733cc7.chunk.js",
+    "static/js/2.78733cc7.chunk.js.map": "/Stock-Market-App/static/js/2.78733cc7.chunk.js.map",
+    "index.html": "/Stock-Market-App/index.html",
+    "static/css/main.645f95a9.chunk.css.map": "/Stock-Market-App/static/css/main.645f95a9.chunk.css.map",
+    "static/js/2.78733cc7.chunk.js.LICENSE.txt": "/Stock-Market-App/static/js/2.78733cc7.chunk.js.LICENSE.txt",
+    "static/media/AMZN.a5474b16.png": "/Stock-Market-App/static/media/AMZN.a5474b16.png",
+    "static/media/GOOGL.63312655.png": "/Stock-Market-App/static/media/GOOGL.63312655.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4db54122.js",
+    "static/js/2.78733cc7.chunk.js",
+    "static/css/main.645f95a9.chunk.css",
+    "static/js/main.c9a52b58.chunk.js"
+  ]
+}
